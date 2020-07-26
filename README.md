@@ -1,9 +1,9 @@
 # to do list
 
-# tools used-
->html
->css
->js
+ tools used-
+.html
+.css
+.js
 
 The app is hosted at this URL-
 
